@@ -15,9 +15,10 @@ I am eager to collaborate on projects involving cloud infrastructure, automation
 
 ## 💬 Expertise
 I am well-versed in:
-- AWS services including CloudFormation, Lambda, S3, EC2, and more
+- AWS services including IAM, CloudFormation, RDS, Lambda, S3, EC2, ECS and more
 - Tools and technologies like Terraform, Docker, Jenkins, Prometheus, and Grafana
 - Security, monitoring, and application delivery practices
+- Containerization tools such as Docker, DockerHub, Kubernetes, and EKS
 - Network and data protection strategies
 
 ## 📫 Contact Information
